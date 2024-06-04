@@ -1,7 +1,6 @@
-// Retrieve tasks from local storage if available
+
 let tasks = JSON.parse(localStorage.getItem('tasks')) || [];
 
-// Render tasks
 function renderTasks() {
   const taskList = document.getElementById('taskList');
   taskList.innerHTML = '';
@@ -20,13 +19,12 @@ function renderTasks() {
     taskText.className = task.completed ? 'completed' : '';
     li.appendChild(taskText);
     
-    // Add edit button with Font Awesome edit icon
+   
     const editButton = document.createElement('button');
     editButton.innerHTML = '<i class="fa-solid fa-pencil"></i>';
     editButton.onclick = () => editTask(index);
     li.appendChild(editButton);
-    
-    // Add delete button with Font Awesome trash icon
+   
     const deleteButton = document.createElement('button');
     deleteButton.innerHTML = '<i class="fas fa-trash-alt"></i>';
     deleteButton.onclick = () => deleteTask(index);
@@ -36,7 +34,7 @@ function renderTasks() {
   });
 }
 
-// Add new task
+
 function addTask() {
   const taskInput = document.getElementById('taskInput');
   const text = taskInput.value.trim();
@@ -52,7 +50,6 @@ function addTask() {
   }
 }
 
-// Edit existing task
 function editTask(index) {
   const newText = prompt('Edit task:', tasks[index].text);
   if (newText !== null) {
@@ -62,24 +59,20 @@ function editTask(index) {
   }
 }
 
-// Delete task
 function deleteTask(index) {
   tasks.splice(index, 1);
   renderTasks();
   updateLocalStorage();
 }
 
-// Toggle task completion
 function toggleTaskCompletion(index) {
   tasks[index].completed = !tasks[index].completed;
   renderTasks();
   updateLocalStorage();
 }
 
-// Update local storage
 function updateLocalStorage() {
   localStorage.setItem('tasks', JSON.stringify(tasks));
 }
 
-// Initial render
 renderTasks();
