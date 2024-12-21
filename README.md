@@ -6,3 +6,5 @@ The To-Do List application is a simple and intuitive tool to manage tasks effici
 - Mark tasks as complete or incomplete.
 - Delete tasks.
 - Responsive design for mobile and desktop users.
+## Technologies Used
+- **Frontend**: HTML, CSS, JavaScript.
