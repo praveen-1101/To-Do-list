@@ -13,4 +13,11 @@ This repository contains the source code for a simple To-Do List application. Th
 HTML for structure<br>
 CSS for styling<br>
 JavaScript for functionality<br>
-(Optional) LocalStorage to persist tasks between sessions<br>
+(Optional) LocalStorage to persist tasks between sessions<br><br>
+Usage
+Open the application in your browser.
+To add a task, enter the task description in the input box and click Add Task.
+To mark a task as completed, click the checkbox next to the task.
+To edit a task, click the Edit button next to the task.
+To delete a task, click the Delete button next to the task.
+To remove all completed tasks, click the Clear Completed button (optional).
