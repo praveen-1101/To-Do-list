@@ -9,5 +9,8 @@ This repository contains the source code for a simple To-Do List application. Th
 <li><h3>Clear Completed Tasks:</h3>  Users can remove all completed tasks from the list.</li>
 <li><h3>Persistent Storage:</h3>  Tasks are saved locally in the browser (using localStorage) so that the list persists after refreshing the page.</li>
 </ul><br><br>
-## Technologies Used
-- **Frontend**: HTML, CSS, JavaScript.<br><br>
+<h3>Technologies Used</h3><br>
+HTML for structure<br>
+CSS for styling<br>
+JavaScript for functionality<br>
+(Optional) LocalStorage to persist tasks between sessions<br>
