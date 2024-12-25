@@ -1,7 +1,8 @@
 # To-Do-list
 <h3>Overview</h3>
 
-This is a simple To-Do List application that helps users manage their tasks efficiently. Users can add, update, delete, and mark tasks as complete. The application is designed to be user-friendly and functional, with a responsive interface.h2>Features</h2>
+This is a simple To-Do List application that helps users manage their tasks efficiently. Users can add, update, delete, and mark tasks as complete. The application is designed to be user-friendly and functional, with a responsive interface.
+<h2>Features</h2>
 <ul>
 <li><h5>Add Tasks:</h5>  Users can add tasks to their to-do list.</li>
 <li><h5>Mark as Complete:</h5>  Users can mark tasks as completed by clicking a checkbox.</li>
