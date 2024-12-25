@@ -1,6 +1,7 @@
 # To-Do-list
-This repository contains the source code for a simple To-Do List application. The application allows users to add, edit, delete, and mark tasks as completed. The purpose of the app is to help users stay organized by providing an easy-to-use interface to manage their daily tasks. This To-Do List app can be expanded with additional features such as task priorities, due dates, and categories.<br><br>
-<h2>Features</h2>
+<h3>Overview</h3>
+
+This is a simple To-Do List application that helps users manage their tasks efficiently. Users can add, update, delete, and mark tasks as complete. The application is designed to be user-friendly and functional, with a responsive interface.h2>Features</h2>
 <ul>
 <li><h3>Add Tasks:</h3>  Users can add tasks to their to-do list.</li>
 <li><h3>Mark as Complete:</h3>  Users can mark tasks as completed by clicking a checkbox.</li>
