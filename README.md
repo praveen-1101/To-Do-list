@@ -23,3 +23,11 @@ This repository contains the source code for a simple To-Do List application. Th
 <li>To remove all completed tasks, click the Clear Completed button (optional).</li>
 <h3>Contributing</h3>
 We welcome contributions! If you have suggestions or improvements, feel free to fork the repository and submit a pull request. Open issues for any bugs or feature requests.<br><br>
+<h4>Contact</h4>
+For questions or suggestions, feel free to reach out:
+<ul>
+
+<li>Email: borapraveen1101@gmail.com</li>
+
+<li>GitHub: praveen-1101</li>
+</ul>
