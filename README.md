@@ -12,10 +12,10 @@ This is a simple To-Do List application that helps users manage their tasks effi
 <li><h4>Persistent Storage:</h4>  Tasks are saved locally in the browser (using localStorage) so that the list persists after refreshing the page.</li>
 </ul>
 <h3>Technologies Used</h3>
-<li>HTML for structure</li><br>
-<li>CSS for styling</li><br>
-<li>JavaScript for functionality</li><br>
-<li>(Optional) LocalStorage to persist tasks between sessions</li>
+<li>HTML for structure</li>
+<li>CSS for styling</li>
+<li>JavaScript for functionality</li>
+<li>LocalStorage to persist tasks between sessions</li>
 <h3>Usage</h3>
 <strong>Open the application in your browser.</strong>
 <li>To add a task, enter the task description in the input box and click Add Task.</li>
