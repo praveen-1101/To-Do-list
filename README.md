@@ -4,12 +4,12 @@
 This is a simple To-Do List application that helps users manage their tasks efficiently. Users can add, update, delete, and mark tasks as complete. The application is designed to be user-friendly and functional, with a responsive interface.
 <h2>Features</h2>
 <ul>
-<li><h5>Add Tasks:</h5>  Users can add tasks to their to-do list.</li>
-<li><h5>Mark as Complete:</h5>  Users can mark tasks as completed by clicking a checkbox.</li>
-<li><h5>Edit Tasks:</h5>  Users can edit the name or details of tasks.</li>
-<li><h5>Delete Tasks:</h5>  Users can delete tasks that are no longer needed.</li>
-<li><h5>Clear Completed Tasks:</h5>  Users can remove all completed tasks from the list.</li>
-<li><h5>Persistent Storage:</h5>  Tasks are saved locally in the browser (using localStorage) so that the list persists after refreshing the page.</li>
+<li><h4>Add Tasks:</h4>  Users can add tasks to their to-do list.</li>
+<li><h4>Mark as Complete:</h4>  Users can mark tasks as completed by clicking a checkbox.</li>
+<li><h4>Edit Tasks:</h4>  Users can edit the name or details of tasks.</li>
+<li><h4>Delete Tasks:</h4>  Users can delete tasks that are no longer needed.</li>
+<li><h4>Clear Completed Tasks:</h4>  Users can remove all completed tasks from the list.</li>
+<li><h4>Persistent Storage:</h4>  Tasks are saved locally in the browser (using localStorage) so that the list persists after refreshing the page.</li>
 </ul>
 <h3>Technologies Used</h3>
 <li>HTML for structure</li><br>
@@ -28,8 +28,5 @@ We welcome contributions! If you have suggestions or improvements, feel free to 
 <h3>Contact</h3>
 For questions or suggestions, feel free to reach out:
 <ul>
-
-<li>Email: borapraveen1101@gmail.com</li>
-
 <li>GitHub: praveen-1101</li>
 </ul>
