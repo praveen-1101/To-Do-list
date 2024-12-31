@@ -23,6 +23,12 @@ This is a simple To-Do List application that helps users manage their tasks effi
 <li>To edit a task, click the Edit button next to the task.</li>
 <li>To delete a task, click the Delete button next to the task.</li>
 <li>To remove all completed tasks, click the Clear Completed button (optional).</li>
+<h3>Future Enhancements</h3>
+<li>Implement user authentication.</li>
+<li>Add due dates and reminders for tasks.</li>
+<li>Integrate with external calendar services.</li>
+<li>Allow for task prioritization and categorization.</li>
+<li>Add offline functionality.</li>
 <h3>Contributing</h3>
 We welcome contributions! If you have suggestions or improvements, feel free to fork the repository and submit a pull request. Open issues for any bugs or feature requests.<br>
 <h3>License</h3>
